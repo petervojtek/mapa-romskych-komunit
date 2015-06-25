@@ -9,4 +9,4 @@ Aktuálny prístup má nedostatky:
 
 TODOs:
 * získať presnejšie polohy osád
-* získať a vizualizovať počet obyvateľov osád
+* získať a [vizualizovať počet obyvateľov osád](http://romovia.vlada.gov.sk/3556/regiony.php)
