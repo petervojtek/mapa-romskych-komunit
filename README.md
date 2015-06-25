@@ -8,5 +8,6 @@ Aktuálny prístup má nedostatky:
 * nie je definované čo je to `osada`
 
 TODOs:
+* použiť [dôveryhodnejší zdroj údajov](http://romovia.vlada.gov.sk/3556/regiony.php)
 * získať presnejšie polohy osád
 * získať a [vizualizovať počet obyvateľov osád](http://romovia.vlada.gov.sk/3556/regiony.php)
