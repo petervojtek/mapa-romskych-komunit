@@ -4,7 +4,7 @@
     <head>
         <meta charset='utf-8'>
         <meta http-equiv="X-UA-Compatible" content="chrome=1">
-        <meta name="description" content="Mapa rómskych osád">
+        <meta name="description" content="Mapa rómskych komunít">
         <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
         <link rel="stylesheet" type="text/css" href="stylesheets/leaflet.css" />
 	<link rel="stylesheet" href="stylesheets/MarkerCluster.css" />
@@ -13,15 +13,14 @@
         <script type="text/javascript" src="javascripts/leaflet.js"></script>
 	<script type="text/javascript" src="javascripts/leaflet.markercluster-src.js"></script>
 
-
-        <title>(Približná) Mapa rómskych osád na Slovensku</title>
+        <title>(Veľmi približná) Mapa rómskych komunít na Slovensku</title>
     </head>
 
     <body>
 
         <!-- HEADER -->
         <div id="header" style="height:10vh">
-            <h1>(Približná) Mapa rómskych osád na Slovensku</h1>
+            <h1>(Veľmi približná) Mapa rómskych komunít na Slovensku</h1>
         </div>
 
         <div id="map"  class="leaflet-map" style="height:80vh">
@@ -29,7 +28,7 @@
         </div>
 
         <div id="footer" style="height:10vh">
-            <a href="https://github.com/petervojtek/mapa-romskych-osad">Dodatočné info a zdrojové kódy tu.</a>
+            <a href="https://github.com/petervojtek/mapa-romskych-komunit">Dodatočné info a zdrojové kódy tu.</a>
         </div>
 
  <script type="text/javascript">

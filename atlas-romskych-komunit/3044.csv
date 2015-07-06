@@ -1,0 +1,59 @@
+BRATISLAVSKÝ  KRAJ;;;;;;;;;;;;;;;;;;;;;;;;;
+;;Charakteristiky osídlenia;;;;;Infraštruktúra v rómskych osídleniach;;;;;;Infraštruktúra majority;;;;Obydlia v rómskych osídleniach;;;;;;Obyvatelia rómskych osídlení;;
+;;;;;;;Dostupnosť inžinierskych sietí;;;;Verejné osvetlenie;Prístupová cesta;Dostupnosť inžinierskych sietí v obci;;;;Celkový počet obydlí;Podiel legálnych obydlí;Podiel obydlí napojených na inžinierske siete;;;;Počet obyvateľov   ;;Podiel na celkovom počte obyvateľov
+Názov obce;Mesto/ obec;Lokalizácia osídlenia;Poloha osídlenia;Vzdialenosť osídlenia (v m);Bariéra;Vysporiadanosť pozemkov;Vodovod ;Kanalizácia;Elektrina;Plyn;;;Vodovod;Kanalizácia;Elektrina;Plyn;;;Vodovod;Kanalizácia;Plyn;Elektrina;V osídlení;Pripadajúcich na jedno obydlie;
+OKRES MALACKY;;;;;;;;;;;;;;;;;;;;;;;;;
+Gajary ;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;čiastočne;áno;áno;áno;;áno;čiastočne;áno;áno;59;100.0;6.8;0.0;39.0;100.0;367;6.2;13.7
+Jablonové;obec;;;;;;;;;;;;nie;nie;áno;áno;12;91.7;0.0;0.0;33.3;100.0;65;6.0;5.6
+Jablonové;obec;intravilán;mimo obce;20;;vysporiadané;nie;nie;áno;čiastočne;áno;asfaltová;;;;;7;85.7;0.0;0.0;0.0;100.0;40;5.7;
+Jablonové;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;áno;áno;;;;;;5;100.0;0.0;0.0;80.0;100.0;25;6.4;
+Jakubov;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;čiastočne;áno;áno;áno;;áno;čiastočne;áno;áno;7;100.0;85.7;0.0;100.0;100.0;40;5.7;2.9
+Kostolište;obec;;;;;;;;;;;;áno;nie;áno;áno;9;100.0;55.6;0.0;33.3;100.0;51;5.4;5.1
+Kostolište;obec;intravilán;integrované/koncentrované;;;vysporiadané;áno;nie;áno;áno;áno;asfaltová;;;;;3;100.0;66.7;0.0;0.0;100.0;26;9.0;
+Kostolište;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;6;100.0;50.0;0.0;50.0;100.0;25;3.7;
+Kuchyňa;obec;;;;;;;;;;;;áno;nie;áno;áno;18;66.7;83.3;0.0;0.0;66.7;87;6.4;5.4
+Kuchyňa;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;6;100.0;100.0;0.0;0.0;100.0;41;6.8;
+Kuchyňa;obec;extravilán;mimo obce;150;;čiastočne vysporiadané;áno;nie;čiastočne;nie;nie;iná;;;;;12;50.0;75.0;0.0;0.0;50.0;46;6.2;
+Lozorno;obec;intravilán;integrované/koncentrované;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;iná;áno;áno;áno;áno;50;50.0;100.0;30.0;10.0;100.0;266;5.7;9.7
+Malacky;mesto;intravilán;mimo obce;500;iné;vysporiadané;áno;nie;áno;nie;áno;asfaltová;áno;áno;áno;áno;3;66.7;66.7;0.0;0.0;66.7;1;11.0;0.0
+Malé Leváre;obec;;;;;;;;;;;;nie;čiastočne;áno;áno;26;57.7;0.0;0.0;57.7;100.0;140;6.0;13.0
+Malé Leváre;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;áno;áno;;;;;;11;100.0;0.0;0.0;100.0;100.0;25;2.3;
+Malé Leváre;obec;intravilán;integrované/koncentrované;;;vysporiadané;nie;nie;áno;áno;áno;iná;;;;;15;26.7;0.0;0.0;26.7;100.0;115;8.7;
+Pernek;obec;;;;;;;;;;;;nie;nie;áno;áno;12;41.7;0.0;0.0;0.0;100.0;60;4.7;7.4
+Pernek;obec;intravilán;na okraji;;;čiastočne vysporiadané;nie;nie;áno;nie;áno;iná;;;;;11;36.4;0.0;0.0;0.0;100.0;53;4.5;
+Plavecký Štvrtok;obec;;;;;;;;;;;;áno;áno;áno;áno;98;12.2;12.2;9.2;11.2;22.4;465;5.2;20.8
+Plavecký Štvrtok;obec;extravilán;na okraji;;;nevysporiadané;áno;nie;áno;nie;čiastočne;iná;;;;;85;0.0;3.5;0.0;0.0;11.8;407;5.3;
+Plavecký Štvrtok;obec;intravilán;integrované/koncentrované;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;5;80.0;60.0;60.0;60.0;80.0;27;6.0;
+Plavecký Štvrtok;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;8;100.0;75.0;75.0;100.0;100.0;31;4.0;
+Rohožník;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;24;83.3;91.7;20.8;50.0;91.7;132;5.4;3.8
+Rohožník;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;asfaltová;;;;;8;75.0;100.0;0.0;0.0;100.0;45;5.4;
+Rohožník;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;čiastočne;áno;čiastočne;áno;;;;;;14;100.0;100.0;35.7;85.7;100.0;69;4.9;
+Rohožník;obec;intravilán;mimo obce;200;;nevysporiadané;nie;nie;nie;nie;nie;asfaltová;;;;;2;0.0;0.0;0.0;0.0;0.0;18;9.0;
+Studienka;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;31;45.2;45.2;0.0;45.2;100.0;137;4.4;8.5
+Studienka;obec;intravilán;na okraji;;;nevysporiadané;áno;nie;áno;nie;áno;asfaltová;;;;;17;0.0;0.0;0.0;0.0;100.0;57;3.4;
+Studienka;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;áno;áno;;;;;;14;100.0;100.0;0.0;100.0;100.0;80;5.7;
+Veľké Leváre;obec;intravilán;integrované/koncentrované;;;čiastočne vysporiadané;áno;nie;čiastočne;áno;áno;iná;áno;nie;áno;áno;94;93.6;93.6;0.0;83.0;93.6;500;5.3;14.3
+Vysoká pri Morave;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;41;95.1;100.0;51.2;97.6;100.0;210;5.4;11.2
+Vysoká pri Morave;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;áno;áno;;;;;;23;95.7;100.0;39.1;95.7;100.0;101;4.5;
+Vysoká pri Morave;obec;intravilán;na okraji;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;18;94.4;100.0;66.7;100.0;100.0;109;6.4;
+Záhorská Ves;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;;áno;nie;áno;áno;40;90.0;0.0;0.0;0.0;100.0;371;9.3;23.2
+Závod;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;nie;áno;čiastočne;áno;;áno;nie;áno;áno;22;100.0;45.5;0.0;*;100.0;137;6.2;5.3
+Zohor;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;41;85.4;100.0;78.0;*;100.0;342;8.3;10.8
+Zohor;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;áno;áno;nie;nie;asfaltová;;;;;10;40.0;100.0;10.0;0.0;100.0;69;6.9;
+Zohor;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;áno;áno;;;;;;31;100.0;100.0;100.0;*;100.0;273;8.8;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES PEZINOK;;;;;;;;;;;;;;;;;;;;;;;;;
+Pezinok;mesto;;;;;;;;;;;;áno;áno;áno;áno;22;100.0;100.0;100.0;0.0;100.0;109;5.6;0.5
+Pezinok;mesto;intravilán;integrované/koncentrované;;železnica;vysporiadané;áno;áno;áno;nie;áno;asfaltová;;;;;18;100.0;100.0;100.0;0.0;100.0;91;5.8;
+Pezinok;mesto;intravilán;mimo obce;200;železnica;nevysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;4;100.0;100.0;100.0;0.0;100.0;18;4.5;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES SENEC;;;;;;;;;;;;;;;;;;;;;;;;;
+Blatné;obec;;;;;;;;;;;;áno;nie;áno;áno;12;100.0;91.7;0.0;83.3;100.0;55;4.6;3.7
+Blatné;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;áno;nie;iná;;;;;7;100.0;85.7;0.0;71.4;100.0;33;4.7;
+Blatné;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;5;100.0;100.0;0.0;100.0;100.0;22;4.4;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+ ;;;;;;;;;;;;;;;;;;;;;;;;;

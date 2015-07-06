@@ -1,0 +1,68 @@
+ŽILINSKÝ  KRAJ ;;;;;;;;;;;;;;;;;;;;;;;;;
+;;Charakteristiky osídlenia;;;;;Infraštruktúra v rómskych osídleniach;;;;;;Infraštruktúra majority;;;;Obydlia v rómskych osídleniach;;;;;;Obyvatelia rómskych osídlení;;
+;;;;;;;Dostupnosť inžinierskych sietí;;;;Verejné osvetlenie;Prístupová cesta;Dostupnosť inžinierskych sietí v obci;;;;Celkový počet obydlí;Podiel legálnych obydlí;Podiel obydlí napojených na inžinierske siete;;;;Počet obyvateľov   ;;Podiel na celkovom počte obyvateľov
+Názov obce;Mesto/ obec;Lokalizácia osídlenia;Poloha osídlenia;Vzdialenosť osídlenia (v m);Bariéra;Vysporiadanosť pozemkov;Vodovod ;Kanalizácia;Elektrina;Plyn;;;Vodovod;Kanalizácia;Elektrina;Plyn;;;Vodovod;Kanalizácia;Plyn;Elektrina;V osídlení;Pripadajúcich na jedno obydlie;
+OKRES ČADCA;;;;;;;;;;;;;;;;;;;;;;;;;
+Čadca;mesto;;;;;;;;;;;;áno;áno;áno;áno;39;100.0;100.0;100.0;0.0;*;180;*;0.7
+Čadca;mesto;intravilán;integrované/koncentrované;;;vysporiadané;áno;áno;nie;nie;áno;asfaltová;;;;;15;100.0;100.0;100.0;0.0;*;100;6.7;
+Čadca;mesto;intravilán;*;;;vysporiadané;áno;áno;čiastočne;nie;áno;*;;;;;24;100.0;100.0;100.0;0.0;*;80;*;
+Svrčinovec ;obec;intravilán;integrované/koncentrované;;;vysporiadané;nie;nie;áno;*;áno;asfaltová;áno;áno;áno;áno;3;33.3;0.0;0.0;0.0;0.0;37;*;1.1
+Turzovka;mesto;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;nie;nie;áno;nie;áno;;áno;čiastočne;áno;čiastočne;13;100.0;15.4;0.0;15.4;84.6;152;11.7;1.9
+Vysoká nad Kysucou;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;áno;nie;áno;áno;11;100.0;90.9;0.0;0.0;100.0;90;8.2;3.0
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES DOLNÝ KUBÍN;;;;;;;;;;;;;;;;;;;;;;;;;
+Dolný Kubín;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;nie;áno;;áno;áno;áno;čiastočne;*;*;*;0.0;0.0;*;400;*;2.0
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES KYSUCKÉ NOVÉ MESTO;;;;;;;;;;;;;;;;;;;;;;;;;
+Kysucké Nové Mesto;mesto;;;;;;;;;;;;áno;áno;áno;čiastočne;33;100.0;100.0;100.0;3.0;100.0;195;5.9;1.2
+Kysucké Nové Mesto;mesto;intravilán;integrované/koncentrované;;;vysporiadané;áno;áno;áno;nie;áno;asfaltová;;;;;25;100.0;100.0;100.0;0.0;100.0;120;4.8;
+Kysucké Nové Mesto;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;čiastočne;áno;;;;;;8;100.0;100.0;100.0;12.5;100.0;75;9.4;
+Nesluša (Puškatka);obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;nie;asfaltová;áno;nie;áno;áno;7;14.3;100.0;0.0;0.0;100.0;78;11.1;2.5
+Povina;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;čiastočne;áno;*;áno;nie;áno;áno;2;100.0;100.0;0.0;50.0;100.0;15;3.5;1.3
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES LIPTOVSKÝ MIKULÁŠ;;;;;;;;;;;;;;;;;;;;;;;;;
+Hybe;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;;áno;nie;áno;čiastočne;6;100.0;66.7;0.0;0.0;100.0;61;10.2;3.8
+Jamník ;obec;intravilán;integrované/rozptýlené;;;nevysporiadané;áno;áno;áno;áno;nie;;áno;áno;áno;áno;4;25.0;100.0;0.0;0.0;100.0;22;6.0;5.4
+Kráľová Lehota;obec;intravilán;na okraji;;;nevysporiadané;áno;nie;áno;nie;áno;asfaltová;áno;čiastočne;áno;nie;4;100.0;100.0;0.0;0.0;75.0;26;7.8;4.1
+Liptovská Porúbka;obec;;;;;;;;;;;;áno;čiastočne;áno;čiastočne;38;97.4;*;*;5.3;100.0;320;8.4;28.1
+Liptovská Porúbka;obec;extravilán;mimo obce;3000;;nevysporiadané;nie;nie;áno;nie;nie;žiadna;;;;;2;50.0;0.0;0.0;0.0;100.0;35;17.5;
+Liptovská Porúbka;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;čiastočne;áno;;;;;;36;100.0;*;*;5.6;100.0;285;7.9;
+Liptovský Hrádok;mesto;;;;;;;;;;;;áno;čiastočne;áno;čiastočne;11;100.0;100.0;81.8;45.5;100.0;102;9.3;1.2
+Liptovský Hrádok;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;4;100.0;100.0;100.0;100.0;100.0;30;7.5;
+Liptovský Hrádok;mesto;intravilán;mimo obce;20;železnica;vysporiadané;áno;áno;áno;nie;áno;asfaltová;;;;;5;100.0;100.0;100.0;0.0;100.0;62;12.4;
+Liptovský Hrádok;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;2;100.0;100.0;0.0;50.0;100.0;10;5.0;
+Liptovský Mikuláš;mesto;;;;;;;;;;;;áno;áno;áno;áno;*;*;*;*;0.0;*;1500;*;4.5
+Liptovský Mikuláš;mesto;intravilán;integrované/koncentrované;;;vysporiadané;áno;áno;áno;nie;áno;iná;;;;;109;40.4;36.7;36.7;0.0;86.2;300;*;
+Liptovský Mikuláš;mesto;intravilán;integrované/koncentrované;;;vysporiadané;áno;nie;áno;nie;áno;asfaltová;;;;;14;0.0;100.0;0.0;0.0;100.0;80;5.7;
+Liptovský Mikuláš;mesto;intravilán;integrované/koncentrované;;;vysporiadané;áno;čiastočne;áno;nie;áno;asfaltová;;;;;75;33.3;*;*;0.0;*;200;*;
+Liptovský Peter;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;čiastočne;áno;nie;áno;;áno;áno;áno;áno;16;93.8;93.8;*;0.0;93.8;82;*;4.6
+Pribilina;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;47;29.8;6.4;0.0;0.0;85.1;253;5.4;18.5
+Pribilina;obec;extravilán;mimo obce;50;potok;nevysporiadané;nie;nie;áno;nie;áno;iná;;;;;44;25.0;0.0;0.0;0.0;84.1;198;4.5;
+Pribilina;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;;;;;3;100.0;100.0;0.0;0.0;100.0;55;18.3;
+Uhorská Ves;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;nie;áno;;áno;čiastočne;áno;nie;6;100.0;100.0;0.0;0.0;100.0;33;5.5;7.2
+Vavrišovo;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;;áno;áno;áno;áno;5;100.0;100.0;100.0;40.0;100.0;20;3.6;3.3
+Važec;obec;;;;;;;;;;;;áno;nie;áno;áno;74;78.4;81.1;0.0;60.8;100.0;528;7.1;22.4
+Važec;obec;intravilán;mimo obce;20;potok;čiastočne vysporiadané;áno;nie;áno;áno;áno;iná;;;;;34;52.9;58.8;0.0;14.7;100.0;320;9.4;
+Važec;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;40;100.0;100.0;0.0;100.0;100.0;208;5.2;
+Východná;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;áno;nie;áno;áno;40;100.0;100.0;0.0;0.0;100.0;240;6.0;9.8
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES MARTIN;;;;;;;;;;;;;;;;;;;;;;;;;
+Martin ;mesto;;;;;;;;;;;;áno;čiastočne;áno;čiastočne;184;81.5;100.0;100.0;58.7;100.0;964;5.2;1.6
+Martin ;mesto;intravilán;na okraji;;;vysporiadané;áno;áno;áno;nie;áno;iná;;;;;33;100.0;100.0;100.0;0.0;100.0;237;7.2;
+Martin ;mesto;intravilán;mimo obce;500;potok;vysporiadané;áno;áno;áno;nie;áno;iná;;;;;43;20.9;100.0;100.0;0.0;100.0;271;6.3;
+Martin ;mesto;intravilán;integrované/koncentrované;;;vysporiadané;áno;áno;áno;áno;áno;*;;;;;108;100.0;100.0;100.0;100.0;100.0;456;4.2;
+Sučany ;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;18;100.0;100.0;*;0.0;*;192;13.4;4.2
+Sučany ;obec;intravilán;integrované/koncentrované;;;vysporiadané;áno;nie;áno;nie;áno;*;;;;;6;100.0;100.0;0.0;0.0;100.0;61;10.2;
+Sučany ;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;čiastočne;áno;áno;;;;;;12;100.0;100.0;*;0.0;*;131;15.1;
+Vrútky ;mesto;;;;;;;;;;;;áno;áno;áno;čiastočne;32;96.9;50.0;50.0;0.0;*;122;7.6;1.7
+Vrútky ;mesto;intravilán;integrované/koncentrované;;;nevysporiadané;nie;nie;áno;nie;nie;asfaltová;;;;;16;93.8;0.0;0.0;0.0;*;46;9.1;
+Vrútky ;mesto;intravilán;integrované/koncentrované;;;vysporiadané;áno;áno;áno;nie;áno;asfaltová;;;;;16;100.0;100.0;100.0;0.0;100.0;76;6.0;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES RUŽOMBEROK;;;;;;;;;;;;;;;;;;;;;;;;;
+Ružomberok;mesto;;;;;;;;;;;;áno;áno;áno;áno;325;100.0;100.0;100.0;76.9;100.0;643;2.0;2.1
+Ružomberok;mesto;intravilán;integrované/koncentrované;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;*;*;*;*;*;*;288;*;
+Ružomberok;mesto;intravilán;integrované/koncentrované;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;64;100.0;100.0;100.0;100.0;100.0;97;1.5;
+Ružomberok;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;107;100.0;100.0;100.0;9.3;100.0;258;2.4;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES ŽILINA;;;;;;;;;;;;;;;;;;;;;;;;;
+Turie;obec;intravilán;na okraji;;;nevysporiadané;áno;nie;áno;nie;áno;asfaltová;áno;nie;áno;áno;4;0.0;25.0;0.0;0.0;0.0;40;10.0;2.1

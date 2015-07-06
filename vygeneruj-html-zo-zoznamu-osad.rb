@@ -2,51 +2,54 @@
 require 'uri'
 require 'open-uri'
 require 'json'
-
-osady = []
+require 'active_support/all' # todo: require class necessary for mb_chars method only
+komunity = {}
 okres = nil
 
-File.read('zoznam-osad-raw').split("\n").each do |line|
-  if line.include?('Okres')
-    okres = line[6..-1].strip
-    next
-  end
+Dir.glob('atlas-romskych-komunit/*.csv').each do |csv_filename|
+  File.read(csv_filename).split("\n").each do |line|
+    next if line.include?('KRAJ')
+    next if line.include?('Charakteristiky')
+    next if line.include?('Názov obce')
   
-  if line.include?('- ')
-    osady_inside_line = line[2..-1].split(', ').collect{|osada| "#{osada.strip}, okres #{okres}"}
-    osady_inside_line
-    osady << osady_inside_line
-  end
+    if line.include?('OKRES')
+      okres = line.split(';').first.strip[6..-1].split(' ').collect{|w| w.mb_chars.capitalize}.join ' '
+      next
+    end
   
+    obec, _, lokalizacia_osidlenia, _, _,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_, pocet_obyvatelov, _   = line.split(';')
+    if obec && obec.size > 0 && lokalizacia_osidlenia && lokalizacia_osidlenia.size == 0
+      komunity["#{obec}, okres #{okres}"] = {:pocet_obyvatelov => pocet_obyvatelov.to_i}
+    end
+
+  end
 end
 
-osady.flatten!
 
 uri = URI.parse('https://maps.googleapis.com/maps/api/geocode/json')
-params = { 'key' => "KEY_HERE"  }
+params = { 'key' => "AIzaSyBbMdumQYUCDgDZImeuTaNtmUH_yNHYWSg"  }
 
-osady_a_poloha = {}
-osady.each do |osada|
-  params['address'] = osada
+komunity.keys.each do |adresa|
+  params['address'] = adresa
   uri.query = URI.encode_www_form params 
   response = uri.open.read
   json_response = JSON.parse response
   if json_response['results'].size > 0 && json_response['results'].first['geometry']
     location_hash = json_response['results'].first['geometry']['location']
     lat, lon = location_hash['lat'], location_hash['lng']
-    osady_a_poloha[osada] = [lat, lon]
-    puts "ok: {osada}, #{lat} #{lon}"
+    komunity[adresa][:lat], komunity[adresa][:lon] = lat, lon
+    puts "ok: #{adresa}, #{lat} #{lon}"
   else
-    puts "not found: #{osada}"
+    puts "not found: #{adresa}"
   end
 
 end
 
-waypoints = osady_a_poloha.collect do |osada, latlon|
-  lat, lon = latlon
+waypoints = komunity.collect do |adresa, infohash|
+  lat, lon = infohash[:lat], infohash[:lon]
   <<STRING
   <wpt lat="#{lat}" lon="#{lon}">
-	<name><![CDATA[#{osada}]]></name>
+	<name><![CDATA[#{adresa} (#{infohash[:pocet_obyvatelov]} obyvateľov)]]></name>
 </wpt>
 STRING
 end
@@ -71,10 +74,10 @@ File.open('osady.gpx', 'wb'){|f| f.write gpx}
 puts 'successfully generated osady.gpx'
 
 html_template = File.read('index.html.template')
-leaflet_js = osady_a_poloha.collect do |osada, latlon|
-  lat, lon = latlon
+leaflet_js = komunity.collect do |adresa, infohash|
+  lat, lon = infohash[:lat], infohash[:lon]
   "marker = L.marker(new L.LatLng(#{lat}, #{lon}));
-	 marker.bindPopup('#{osada}');
+	 marker.bindPopup('#{adresa} (#{infohash[:pocet_obyvatelov]} obyvateľov)');
 	markers.addLayer(marker);"
 end
 

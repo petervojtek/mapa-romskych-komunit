@@ -1,0 +1,477 @@
+PREŠOVSKÝ  KRAJ ;;;;;;;;;;;;;;;;;;;;;;;;;
+;;Charakteristiky osídlenia;;;;;Infraštruktúra v rómskych osídleniach;;;;;;Infraštruktúra majority;;;;Obydlia v rómskych osídleniach;;;;;;Obyvatelia rómskych osídlení;;
+;;;;;;;Dostupnosť inžinierskych sietí;;;;Verejné osvetlenie;Prístupová cesta;Dostupnosť inžinierskych sietí v obci;;;;Celkový počet obydlí;Podiel legálnych obydlí;Podiel obydlí napojených na inžinierske siete;;;;Počet obyvateľov   ;;Podiel na celkovom počte obyvateľov
+Názov obce;Mesto/ obec;Lokalizácia osídlenia;Poloha osídlenia;Vzdialenosť osídlenia (v m);Bariéra;Vysporiadanosť pozemkov;Vodovod ;Kanalizácia;Elektrina;Plyn;;;Vodovod;Kanalizácia;Elektrina;Plyn;;;Vodovod;Kanalizácia;Plyn;Elektrina;V osídlení;Pripadajúcich na jedno obydlie;
+OKRES BARDEJOV;;;;;;;;;;;;;;;;;;;;;;;;;
+Andrejová;obec;;;;;;;;;;;;áno;nie;áno;áno;7;85.7;85.7;0.0;28.6;100.0;80;10.9;25.0
+Andrejová;obec;intravilán;mimo obce;100;les;vysporiadané;áno;nie;áno;áno;áno;iná;;;;;6;83.3;83.3;0.0;33.3;100.0;72;11.3;
+Andrejová;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;1;100.0;100.0;0.0;0.0;100.0;8;8.0;
+Bardejov;mesto;;;;;;;;;;;;áno;čiastočne;áno;áno;*;*;*;*;*;*;1548;*;4.7
+Bardejov;mesto;intravilán;na okraji;;;vysporiadané;áno;čiastočne;áno;áno;áno;asfaltová;;;;;105;100.0;*;*;0.0;100.0;973;9.3;
+Bardejov;mesto;intravilán;mimo obce;400;;vysporiadané;áno;nie;áno;nie;nie;iná;;;;;12;100.0;0.0;0.0;0.0;100.0;75;6.3;
+Bardejov;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;*;*;*;*;*;*;500;*;
+Becherov;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;áno;nie;áno;áno;5;100.0;100.0;0.0;20.0;100.0;44;8.8;14.6
+Cigeľka;obec;extravilán;mimo obce;400;;nevysporiadané;áno;nie;áno;nie;áno;iná;áno;nie;áno;nie;36;22.2;88.9;0.0;0.0;52.8;314;8.7;72.9
+Dubinné;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;;áno;nie;áno;áno;3;100.0;100.0;0.0;66.7;100.0;11;3.7;2.9
+Frička;obec;;;;;;;;;;;;áno;nie;áno;nie;20;45.0;15.0;0.0;0.0;100.0;159;6.5;63.3
+Frička;obec;intravilán;integrované/rozptýlené;;;nevysporiadané;áno;nie;áno;nie;nie;;;;;;5;100.0;60.0;0.0;0.0;100.0;43;8.6;
+Frička;obec;intravilán;na okraji;;;nevysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;6;0.0;0.0;0.0;0.0;100.0;48;2.2;
+Frička;obec;intravilán;na okraji;;;nevysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;9;44.4;0.0;0.0;0.0;100.0;68;8.1;
+Gerlachov;obec;;;;;;;;;;;;áno;nie;áno;nie;24;66.7;25.0;0.0;0.0;100.0;164;7.6;16.9
+Gerlachov;obec;extravilán;mimo obce;800;kopec;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;;;;;22;63.6;27.3;0.0;0.0;100.0;148;7.5;
+Gerlachov;obec;intravilán;na okraji;;;čiastočne vysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;2;100.0;0.0;0.0;0.0;100.0;16;8.0;
+Hrabské;obec;extravilán;mimo obce;1000;;nevysporiadané;nie;nie;áno;nie;áno;iná;áno;nie;áno;nie;38;5.3;0.0;0.0;0.0;100.0;212;5.6;37.4
+Kružlov;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;nie;áno;;áno;áno;áno;nie;2;100.0;100.0;100.0;0.0;100.0;10;5.0;1.0
+Kurima;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;asfaltová;áno;čiastočne;áno;áno;24;100.0;100.0;100.0;100.0;100.0;157;6.5;14.7
+Kurov;obec;intravilán;mimo obce;50;;čiastočne vysporiadané;nie;nie;áno;nie;áno;iná;áno;nie;áno;nie;10;30.0;0.0;0.0;0.0;20.0;136;13.6;24.9
+Lascov;obec;extravilán;mimo obce;300;;čiastočne vysporiadané;nie;nie;áno;nie;áno;iná;nie;nie;áno;áno;17;11.8;0.0;0.0;0.0;*;122;8.5;23.5
+Lenartov;obec;;;;;;;;;;;;áno;nie;áno;nie;53;35.8;35.8;0.0;0.0;100.0;436;8.3;46.3
+Lenartov;obec;intravilán/extravilán;mimo obce;1500;;vysporiadané;nie;nie;áno;nie;áno;iná;;;;;34;0.0;0.0;0.0;0.0;100.0;320;9.4;
+Lenartov;obec;intravilán;mimo obce;700;potok;nevysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;18;100.0;100.0;0.0;0.0;100.0;115;6.4;
+Lenartov;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;;;;;1;100.0;100.0;0.0;0.0;100.0;3;3.0;
+Lukov;obec;;;;;;;;;;;;áno;nie;áno;nie;24;16.7;16.7;0.0;0.0;*;191;*;34.1
+Lukov;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;;;;;4;100.0;75.0;0.0;0.0;100.0;17;4.3;
+Lukov;obec;intravilán;mimo obce;100;potok;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;;;;;20;0.0;5.0;0.0;0.0;*;174;*;
+Malcov;obec;;;;;;;;;;;;áno;nie;áno;nie;50;12.0;12.0;0.0;0.0;100.0;239;4.7;16.8
+Malcov;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;;;;;1;100.0;0.0;0.0;0.0;100.0;6;10.0;
+Malcov;obec;intravilán;mimo obce;100;potok;nevysporiadané;áno;nie;áno;nie;áno;iná;;;;;33;0.0;9.1;0.0;0.0;100.0;139;4.2;
+Malcov;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;nie;áno;iná;;;;;16;31.3;18.8;0.0;0.0;100.0;94;5.9;
+Marhaň;obec;;;;;;;;;;;;nie;nie;áno;áno;14;28.6;21.4;0.0;21.4;*;157;11.2;17.4
+Marhaň;obec;extravilán;mimo obce;100;;nevysporiadané;nie;nie;áno;nie;áno;iná;;;;;11;9.1;0.0;0.0;0.0;*;140;12.7;
+Marhaň;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;áno;áno;;;;;;3;100.0;100.0;0.0;100.0;100.0;17;5.7;
+Nižná Polianka;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;áno;nie;áno;áno;3;100.0;100.0;0.0;100.0;100.0;14;4.7;5.4
+Nižný Tvarožec;obec;;;;;;;;;;;;áno;nie;áno;nie;25;4.0;4.0;0.0;0.0;100.0;130;5.7;28.6
+Nižný Tvarožec;obec;extravilán;mimo obce;700;;nevysporiadané;áno;nie;áno;nie;áno;iná;;;;;24;0.0;0.0;0.0;0.0;100.0;122;5.6;
+Nižný Tvarožec;obec;extravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;;;;;1;100.0;100.0;0.0;0.0;100.0;8;8.0;
+Ortuťová;obec;;;;;;;;;;;;nie;čiastočne;áno;áno;3;33.3;0.0;0.0;0.0;33.3;41;14.0;18.8
+Ortuťová;obec;extravilán;mimo obce;1000;les;nevysporiadané;nie;nie;áno;nie;nie;iná;;;;;2;0.0;0.0;0.0;0.0;0.0;28;14.0;
+Ortuťová;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;áno;áno;*;;;;;1;100.0;0.0;0.0;0.0;100.0;14;14.0;
+Petrová;obec;;;;;;;;;;;;áno;nie;áno;nie;52;59.6;15.4;0.0;0.0;26.9;425;8.2;71.2
+Petrová;obec;intravilán;mimo obce;300;;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;;;;;50;58.0;12.0;0.0;0.0;24.0;415;8.3;
+Petrová;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;;;;;2;100.0;100.0;0.0;0.0;100.0;10;5.5;
+Raslavice;obec;;;;;;;;;;;;áno;nie;áno;áno;43;79.1;67.4;0.0;41.9;100.0;317;7.4;12.8
+Raslavice;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;asfaltová;;;;;42;78.6;66.7;0.0;40.5;100.0;312;7.4;
+Raslavice;obec;intravilán;integrované/rozptýlené;;;nevysporiadané;áno;nie;áno;áno;áno;;;;;;1;100.0;100.0;0.0;100.0;100.0;5;5.0;
+Richvald;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;*;áno;nie;áno;áno;2;100.0;50.0;0.0;0.0;50.0;20;10.0;2.0
+Rokytov;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;iná;áno;nie;áno;áno;18;66.7;66.7;0.0;38.9;66.7;130;8.6;24.6
+Snakov;obec;intravilán;integrované/koncentrované;;;vysporiadané;áno;nie;áno;nie;áno;*;áno;nie;áno;nie;13;61.5;30.8;0.0;0.0;100.0;160;12.1;24.9
+Sveržov;obec;intravilán;mimo obce;100;iné;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;áno;nie;áno;áno;9;0.0;0.0;0.0;0.0;11.1;52;5.8;10.2
+Šarišské Čierne;obec;;;;;;;;;;;;áno;nie;áno;nie;8;75.0;100.0;0.0;0.0;100.0;62;7.9;18.0
+Šarišské Čierne;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;asfaltová;;;;;5;80.0;100.0;0.0;0.0;100.0;38;7.6;
+Šarišské Čierne;obec;intravilán;mimo obce;100;;vysporiadané;áno;nie;áno;nie;nie;asfaltová;;;;;1;0.0;100.0;0.0;0.0;100.0;15;16.0;
+Šarišské Čierne;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;;;;;2;100.0;100.0;0.0;0.0;100.0;9;4.5;
+Šášová;obec;intravilán;na okraji;;;nevysporiadané;nie;nie;áno;áno;áno;iná;áno;nie;áno;áno;4;50.0;50.0;0.0;25.0;100.0;19;6.5;12.0
+Varadka;obec;;;;;;;;;;;;áno;nie;áno;nie;24;50.0;95.8;0.0;0.0;95.8;142;5.9;84.5
+Varadka;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;nie;áno;iná;;;;;15;20.0;100.0;0.0;0.0;100.0;100;6.7;
+Varadka;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;;;;;9;100.0;88.9;0.0;0.0;88.9;42;4.7;
+Zborov;obec;;;;;;;;;;;;áno;nie;áno;áno;182;40.1;46.2;0.0;*;96.7;1140;6.1;38.4
+Zborov;obec;intravilán;mimo obce;50;potok;nevysporiadané;áno;nie;áno;nie;áno;iná;;;;;106;0.0;9.4;0.0;0.0;94.3;540;5.6;
+Zborov;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;;;;;;40;92.5;95.0;0.0;*;100.0;250;6.3;
+Zborov;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;asfaltová;;;;;36;100.0;100.0;0.0;8.3;100.0;25;7.2;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES HUMENNÉ;;;;;;;;;;;;;;;;;;;;;;;;;
+Adidovce;obec;intravilán;integrované/rozptýlené;;;*;áno;nie;áno;nie;áno;;áno;nie;áno;áno;1;100.0;100.0;0.0;0.0;100.0;14;14.0;6.0
+Brekov;obec;intravilán;na okraji;;;*;áno;nie;áno;áno;áno;asfaltová;áno;nie;áno;áno;46;100.0;100.0;0.0;95.7;100.0;285;6.2;22.8
+Humenné;mesto;;;;;;;;;;;;áno;áno;áno;áno;*;*;*;*;*;*;2347;*;6.7
+Humenné;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;140;100.0;*;*;*;*;1150;8.2;
+Humenné;mesto;intravilán;na okraji;;;vysporiadané;áno;áno;áno;nie;áno;asfaltová;;;;;136;66.9;*;*;0.0;*;1180;*;
+Kamenica nad Cirochou;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;áno;čiastočne;áno;áno;6;100.0;100.0;83.3;100.0;100.0;46;7.7;8.2
+Kamenica nad Cirochou;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;41;100.0;87.8;0.0;92.7;100.0;256;6.3;11.3
+Kamenica nad Cirochou;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;nie;áno;asfaltová;;;;;25;100.0;80.0;0.0;88.0;100.0;*;*;
+Kamenica nad Cirochou;obec;intravilán;integrované/koncentrované;;;vysporiadané;áno;nie;áno;áno;áno;*;;;;;6;100.0;100.0;0.0;100.0;100.0;*;*;
+Kamenica nad Cirochou;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;10;100.0;100.0;0.0;100.0;100.0;*;*;
+Karná;obec;intravilán;mimo obce;100;;čiastočne vysporiadané;áno;nie;áno;nie;áno;asfaltová;nie;nie;áno;čiastočne;17;100.0;100.0;0.0;0.0;100.0;117;6.8;26.2
+Ľubiša;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;iná;áno;nie;áno;áno;10;100.0;40.0;0.0;70.0;100.0;75;7.5;9.2
+Myslina;obec;;;;;;;;;;;;áno;nie;áno;áno;9;0.0;0.0;0.0;0.0;100.0;69;7.7;12.0
+Myslina;obec;intravilán;mimo obce;300;;nevysporiadané;áno;nie;áno;nie;áno;asfaltová;;;;;8;0.0;0.0;0.0;0.0;100.0;58;7.3;
+Myslina;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;;;;;1;0.0;0.0;0.0;0.0;100.0;11;11.0;
+Nižná Jablonka;obec;intravilán;mimo obce;250;;vysporiadané;nie;nie;áno;nie;áno;asfaltová;nie;nie;áno;nie;3;100.0;0.0;0.0;0.0;100.0;56;18.7;31.1
+Rovné;obec;;;;;;;;;;;;nie;nie;áno;áno;3;100.0;0.0;0.0;100.0;100.0;43;14.3;9.1
+Rovné;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;áno;áno;;;;;;1;100.0;0.0;0.0;100.0;100.0;9;*;
+Rovné;obec;intravilán;mimo obce;150;;vysporiadané;nie;nie;áno;áno;áno;iná;;;;;2;100.0;0.0;0.0;100.0;100.0;9;*;
+Slovenská Volová;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;čiastočne;áno;asfaltová;áno;nie;áno;čiastočne;14;71.4;64.3;0.0;64.3;100.0;157;12.9;32.8
+Topoľovka;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;áno;nie;áno;áno;3;100.0;100.0;0.0;0.0;100.0;16;5.3;2.0
+Vyšný Hrušov;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;;nie;nie;áno;áno;10;100.0;60.0;0.0;60.0;100.0;60;6.0;12.9
+Zbudské Dlhé;obec;intravilán;mimo obce;1500;;čiastočne vysporiadané;nie;nie;áno;nie;áno;iná;áno;nie;čiastočne;čiastočne;54;29.6;14.8;0.0;0.0;100.0;326;6.0;58.7
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES KEŽMAROK;;;;;;;;;;;;;;;;;;;;;;;;;
+Holumnica;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;áno;áno;áno;áno;70;100.0;100.0;100.0;100.0;100.0;520;7.4;66.9
+Huncovce;obec;intravilán;mimo obce;800;;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;áno;nie;áno;áno;107;0.0;43.9;0.0;0.0;100.0;835;7.8;36.8
+Ihľany;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;;áno;áno;áno;áno;74;100.0;98.6;54.1;2.7;100.0;800;10.8;63.9
+Jezersko;obec;extravilán;mimo obce;300;;čiastočne vysporiadané;nie;nie;áno;nie;nie;žiadna;nie;nie;áno;čiastočne;6;0.0;0.0;0.0;0.0;100.0;31;5.2;27.4
+Jurské;obec;;;;;;;;;;;;nie;nie;áno;áno;*;*;0.0;0.0;0.0;*;752;*;99.2
+Jurské;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;áno;áno;;;;;;*;*;0.0;0.0;0.0;*;*;*;
+Jurské;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;nie;áno;iná;;;;;*;*;0.0;0.0;0.0;*;*;*;
+Jurské;obec;intravilán;mimo obce;500;;nevysporiadané;nie;nie;áno;nie;áno;iná;;;;;*;*;0.0;0.0;0.0;*;*;*;
+Kežmarok;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;áno;áno;áno;áno;*;*;*;*;*;*;880;*;5.1
+Krížová Ves;obec;;;;;;;;;;;;áno;áno;áno;áno;105;93.3;100.0;33.3;9.5;100.0;1077;10.3;66.8
+Krížová Ves;obec;intravilán;mimo obce;500;;čiastočne vysporiadané;áno;áno;áno;nie;áno;iná;;;;;88;97.7;100.0;20.5;0.0;100.0;873;11.5;
+Krížová Ves;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;;;;;;17;70.6;100.0;100.0;58.8;100.0;206;12.1;
+Ľubica;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;iná;áno;áno;áno;áno;73;71.2;43.8;34.2;5.5;100.0;481;7.0;12.8
+Malý Slavkov;obec;intravilán;integrované/koncentrované;;;vysporiadané;áno;nie;áno;áno;áno;iná;áno;čiastočne;áno;áno;20;100.0;100.0;0.0;20.0;100.0;275;*;35.5
+Matiašovce;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;nie;;áno;nie;áno;áno;5;100.0;100.0;0.0;0.0;100.0;27;4.2;3.3
+Podhorany;obec;intravilán;mimo obce;200;;nevysporiadané;nie;nie;áno;čiastočne;áno;iná;nie;nie;áno;áno;106;69.8;0.9;0.0;0.0;100.0;1041;9.8;73.5
+Rakúsy;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;196;20.4;18.4;*;2.0;100.0;1349;*;69.9
+Rakúsy;obec;extravilán;mimo obce;2000;;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;;;;;178;12.4;10.1;0.0;0.0;100.0;1128;*;
+Rakúsy;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;áno;áno;;;;;;18;100.0;100.0;*;22.2;100.0;221;12.3;
+Reľov;obec;intravilán;integrované/koncentrované;;;nevysporiadané;nie;nie;áno;nie;nie;asfaltová;áno;nie;áno;áno;7;0.0;0.0;0.0;0.0;100.0;37;5.3;11.1
+Slovenská Ves;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;21;100.0;90.5;*;52.4;100.0;242;11.5;13.5
+Slovenská Ves;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;áno;áno;;;;;;4;100.0;100.0;*;100.0;100.0;38;9.5;
+Slovenská Ves;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;*;;;;;17;100.0;88.2;0.0;41.2;100.0;204;12.0;
+Spišská Belá;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;áno;áno;áno;áno;*;*;*;*;*;*;415;*;6.8
+Spišská Stará Ves;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;áno;čiastočne;áno;áno;*;*;*;*;*;*;161;*;6.8
+Stará Lesná;obec;;;;;;;;;;;;áno;áno;áno;áno;29;72.4;72.4;72.4;34.5;100.0;276;9.6;30.9
+Stará Lesná;obec;extravilán;mimo obce;50;potok;čiastočne vysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;8;0.0;0.0;0.0;0.0;100.0;*;*;
+Stará Lesná;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;21;100.0;100.0;100.0;47.6;100.0;*;*;
+Stráne pod Tatrami;obec;;;;;;;;;;;;áno;nie;áno;áno;140;14.3;7.1;0.0;0.0;93.6;1022;7.2;89.1
+Stráne pod Tatrami;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;4;100.0;100.0;0.0;0.0;100.0;17;4.3;
+Stráne pod Tatrami;obec;extravilán;mimo obce;1000;;čiastočne vysporiadané;áno;nie;áno;áno;áno;asfaltová;;;;;136;11.8;4.4;0.0;0.0;93.4;1005;7.3;
+Toporec;obec;;;;;;;;;;;;áno;nie;áno;čiastočne;98;68.4;87.8;0.0;59.2;100.0;937;9.7;57.8
+Toporec;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;8;100.0;100.0;0.0;75.0;100.0;83;10.4;
+Toporec;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;asfaltová;;;;;47;100.0;89.4;0.0;85.1;100.0;434;9.2;
+Toporec;obec;intravilán;mimo obce;1000;;čiastočne vysporiadané;áno;nie;áno;áno;áno;asfaltová;;;;;43;27.9;83.7;0.0;27.9;100.0;420;10.1;
+Tvarožná;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;nie;nie;áno;nie;áno;;áno;nie;áno;čiastočne;9;100.0;0.0;0.0;0.0;88.9;80;10.0;13.5
+Veľká Lomnica;obec;;;;;;;;;;;;áno;áno;áno;čiastočne;182;62.6;28.6;5.5;8.2;100.0;1358;7.5;38.0
+Veľká Lomnica;obec;intravilán;mimo obce;2000;;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;;;;;157;56.7;17.2;0.0;0.0;100.0;1058;*;
+Veľká Lomnica;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;25;100.0;100.0;40.0;60.0;100.0;300;*;
+Vrbov;obec;;;;;;;;;;;;áno;nie;nie;áno;23;17.4;17.4;0.0;0.0;82.6;129;6.7;10.8
+Vrbov;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;4;75.0;100.0;0.0;0.0;100.0;27;6.8;
+Vrbov;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;;;;;19;5.3;0.0;0.0;0.0;78.9;102;6.7;
+Výborná;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;nie;nie;áno;nie;áno;;nie;nie;áno;nie;64;84.4;0.0;0.0;0.0;100.0;613;9.6;74.5
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES LEVOČA;;;;;;;;;;;;;;;;;;;;;;;;;
+Bijacovce;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;asfaltová;áno;nie;áno;áno;16;37.5;37.5;0.0;0.0;93.8;102;6.4;12.1
+Dlhé Stráže;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;áno;čiastočne;áno;áno;17;11.8;29.4;0.0;0.0;100.0;136;8.1;26.7
+Doľany - Rožkovce;obec;intravilán;*;;;čiastočne vysporiadané;nie;nie;áno;nie;áno;asfaltová;áno;nie;áno;áno;26;57.7;0.0;0.0;0.0;46.2;267;*;67.8
+Domaňovce;obec;intravilán;mimo obce;30;kopec;čiastočne vysporiadané;áno;čiastočne;áno;áno;áno;iná;áno;čiastočne;áno;áno;8;87.5;50.0;50.0;87.5;100.0;44;5.5;4.9
+Dravce ;obec;;;;;;;;;;;;áno;nie;áno;nie;18;27.8;0.0;0.0;0.0;100.0;123;6.8;16.1
+Dravce ;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;nie;áno;iná;;;;;7;42.9;0.0;0.0;0.0;100.0;61;8.7;
+Dravce ;obec;extravilán;mimo obce;200;;čiastočne vysporiadané;nie;nie;áno;nie;áno;žiadna;;;;;11;18.2;0.0;0.0;0.0;100.0;62;5.6;
+Jablonov;obec;intravilán;mimo obce;50;;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;áno;nie;áno;áno;52;30.8;76.9;3.8;0.0;100.0;197;4.4;19.8
+Levoča;mesto;;;;;;;;;;;;áno;čiastočne;áno;áno;246;91.5;80.9;63.8;20.3;100.0;2755;11.2;19.2
+Levoča;mesto;intravilán;na okraji;;;vysporiadané;áno;čiastočne;áno;nie;áno;asfaltová;;;;;92;100.0;100.0;67.4;0.0;100.0;1551;16.9;
+Levoča;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;čiastočne;áno;;;;;;129;100.0;73.6;73.6;38.8;100.0;591;4.6;
+Levoča;mesto;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;asfaltová;;;;;25;16.0;48.0;0.0;0.0;100.0;297;11.9;
+Spišské Podhradie;mesto;intravilán;integrované/koncentrované;;;vysporiadané;áno;čiastočne;áno;čiastočne;áno;*;áno;čiastočne;áno;áno;52;100.0;75.0;38.5;26.9;98.1;399;7.7;10.4
+Spišský Hrhov;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;;áno;áno;áno;áno;17;76.5;35.3;0.0;5.9;*;212;12.5;20.8
+Spišský Štvrtok;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;áno;áno;;áno;čiastočne;áno;áno;114;99.1;98.2;54.4;86.0;98.2;576;5.1;25.0
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES MEDZILABORCE;;;;;;;;;;;;;;;;;;;;;;;;;
+Čabalovce;obec;intravilán;mimo obce;400;;nevysporiadané;nie;nie;áno;nie;áno;iná;nie;nie;áno;nie;10;10.0;0.0;0.0;0.0;100.0;106;8.6;30.4
+Krásny Brod;obec;;;;;;;;;;;;áno;nie;áno;áno;9;100.0;0.0;0.0;0.0;33.3;41;4.6;10.1
+Krásny Brod;obec;intravilán;na okraji;0;;vysporiadané;nie;nie;áno;nie;áno;iná;;;;;8;100.0;0.0;0.0;0.0;25.0;36;4.5;
+Krásny Brod;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;nie;áno;;;;;;1;100.0;0.0;0.0;0.0;100.0;5;5.0;
+Medzilaborce;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;áno;áno;;áno;čiastočne;áno;čiastočne;96;84.4;83.3;83.3;78.1;100.0;676;7.3;10.0
+Palota;obec;extravilán;mimo obce;100;;nevysporiadané;nie;nie;áno;nie;áno;žiadna;nie;nie;áno;nie;15;66.7;0.0;0.0;0.0;100.0;73;4.9;39.9
+Radvaň nad Laborcom;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;nie;áno;;áno;nie;áno;áno;10;0.0;0.0;0.0;0.0;100.0;80;9.0;13.3
+Sukov;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;nie;nie;áno;nie;áno;;nie;nie;áno;nie;4;100.0;0.0;0.0;0.0;100.0;26;6.0;17.0
+Volica;obec;intravilán;mimo obce;200;;čiastočne vysporiadané;áno;nie;áno;nie;áno;asfaltová;áno;nie;áno;nie;8;87.5;0.0;0.0;0.0;100.0;47;5.3;13.5
+Výrava;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;áno;nie;áno;nie;5;100.0;100.0;0.0;0.0;100.0;24;4.8;16.7
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES POPRAD;;;;;;;;;;;;;;;;;;;;;;;;;
+Batizovce;obec;;;;;;;;;;;;áno;nie;áno;áno;72;54.2;33.3;0.0;0.0;95.8;473;*;22.4
+Batizovce;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;nie;iná;;;;;65;49.2;36.9;0.0;0.0;95.4;409;*;
+Batizovce;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;áno;áno;;;;;;7;100.0;0.0;0.0;0.0;100.0;67;9.1;
+Gánovce;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;;áno;áno;áno;áno;81;100.0;98.8;96.3;86.4;98.8;294;3.6;28.7
+Gerlachov;obec;intravilán;integrované/koncentrované;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;*;áno;áno;áno;áno;29;100.0;100.0;100.0;100.0;100.0;235;8.1;29.8
+Hranovnica;obec;;;;;;;;;;;;áno;áno;áno;áno;115;51.3;78.3;78.3;*;100.0;1050;9.1;42.9
+Hranovnica;obec;intravilán;na okraji;;;vysporiadané;áno;áno;áno;čiastočne;áno;iná;;;;;90;60.0;100.0;100.0;*;100.0;800;8.9;
+Hranovnica;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;nie;nie;iná;;;;;25;20.0;0.0;0.0;0.0;100.0;250;10.0;
+Jánovce;obec;;;;;;;;;;;;áno;čiastočne;áno;čiastočne;69;39.1;39.1;17.4;18.8;100.0;568;8.2;47.9
+Jánovce;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;áno;áno;;;;;;6;100.0;100.0;83.3;83.3;100.0;30;5.0;
+Jánovce;obec;intravilán;na okraji;;;nevysporiadané;áno;čiastočne;áno;áno;áno;iná;;;;;21;100.0;100.0;33.3;38.1;100.0;150;7.1;
+Jánovce;obec;intravilán;mimo obce;200;;nevysporiadané;áno;nie;áno;nie;čiastočne;asfaltová;;;;;42;0.0;0.0;0.0;0.0;100.0;388;9.2;
+Kravany;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;iná;áno;nie;áno;áno;15;66.7;66.7;0.0;26.7;100.0;106;7.1;12.4
+Liptovská Teplička;obec;;;;;;;;;;;;áno;áno;áno;áno;102;31.4;87.3;87.3;0.0;100.0;400;3.9;17.4
+Liptovská Teplička;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;30;16.7;100.0;100.0;0.0;100.0;120;4.0;
+Liptovská Teplička;obec;intravilán;*;;;čiastočne vysporiadané;áno;áno;áno;nie;áno;iná;;;;;72;37.5;81.9;81.9;0.0;100.0;280;3.9;
+Lučivná;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;iná;áno;nie;áno;áno;54;100.0;100.0;0.0;11.1;100.0;372;6.9;38.5
+Mengusovce;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;21;81.0;90.5;28.6;4.8;100.0;194;8.8;33.1
+Mengusovce;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;čiastočne;áno;čiastočne;áno;iná;;;;;9;66.7;88.9;44.4;11.1;100.0;78;8.1;
+Mengusovce;obec;intravilán;na okraji;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;12;91.7;91.7;16.7;0.0;100.0;116;9.3;
+Nová Lesná;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;áno;áno;áno;áno;83;100.0;100.0;100.0;97.6;100.0;367;4.4;24.5
+Poprad;mesto;;;;;;;;;;;;áno;áno;áno;áno;*;*;*;*;*;*;3075;*;5.6
+Poprad;mesto;intravilán;*;;;vysporiadané;áno;áno;áno;nie;áno;asfaltová;;;;;13;100.0;100.0;100.0;0.0;100.0;166;12.8;
+Poprad;mesto;intravilán;*;;;vysporiadané;áno;áno;áno;nie;áno;asfaltová;;;;;7;100.0;14.3;14.3;0.0;14.3;44;6.3;
+Poprad;mesto;intravilán;*;;;vysporiadané;áno;áno;áno;nie;áno;asfaltová;;;;;5;100.0;20.0;20.0;0.0;20.0;37;7.4;
+Poprad;mesto;intravilán;*;;;vysporiadané;áno;nie;áno;nie;áno;asfaltová;;;;;8;100.0;25.0;100.0;0.0;100.0;100;13.9;
+Poprad;mesto;intravilán;*;;;vysporiadané;áno;áno;áno;nie;nie;asfaltová;;;;;11;0.0;100.0;100.0;0.0;100.0;67;6.1;
+Poprad;mesto;intravilán;*;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;12;100.0;100.0;100.0;100.0;100.0;69;5.8;
+Poprad;mesto;intravilán;*;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;3;100.0;100.0;100.0;100.0;100.0;35;11.7;
+Poprad;mesto;intravilán;*;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;22;100.0;100.0;100.0;0.0;100.0;147;6.7;
+Poprad;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;*;*;*;*;*;*;*;*;
+Spišská Teplica;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;áno;áno;áno;áno;65;100.0;100.0;84.6;69.2;100.0;372;5.4;19.9
+Spišské Bystré;obec;;;;;;;;;;;;áno;áno;áno;áno;36;27.8;30.6;30.6;13.9;30.6;187;5.2;7.9
+Spišské Bystré;obec;extravilán;mimo obce;1200;iné;nevysporiadané;nie;nie;nie;nie;nie;žiadna;;;;;25;0.0;0.0;0.0;0.0;0.0;134;5.4;
+Spišské Bystré;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;11;90.9;100.0;100.0;45.5;100.0;53;4.8;
+Spišský Štiavnik;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;áno;áno;áno;nie;asfaltová;áno;áno;áno;áno;122;34.4;45.9;14.8;0.8;83.6;682;5.6;32.5
+Svit;mesto;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;;áno;áno;áno;áno;23;100.0;91.3;91.3;65.2;91.3;303;13.2;4.1
+Štôla;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;čiastočne;áno;áno;áno;;áno;áno;áno;áno;3;100.0;100.0;33.3;33.3;100.0;36;12.0;6.8
+Štrba;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;;áno;áno;áno;áno;48;100.0;100.0;87.5;87.5;100.0;357;7.4;9.6
+Šuňava;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;nie;áno;čiastočne;nie;;áno;čiastočne;áno;áno;14;100.0;100.0;0.0;85.7;100.0;82;4.1;4.3
+Švábovce;obec;;;;;;;;;;;;áno;áno;áno;áno;43;48.8;41.9;41.9;41.9;100.0;290;*;27.9
+Švábovce;obec;intravilán;integrované/koncentrované;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;14;100.0;100.0;100.0;100.0;100.0;120;8.6;
+Švábovce;obec;intravilán;mimo obce;1000;;čiastočne vysporiadané;nie;nie;áno;nie;nie;asfaltová;;;;;25;12.0;0.0;0.0;0.0;100.0;142;*;
+Švábovce;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;4;100.0;100.0;100.0;100.0;100.0;28;7.0;
+Veľký Slavkov;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;41;100.0;100.0;4.9;65.9;100.0;285;7.0;25.6
+Veľký Slavkov;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;áno;áno;;;;;;20;100.0;100.0;10.0;100.0;100.0;161;8.1;
+Veľký Slavkov;obec;intravilán;mimo obce;300;družstvo;čiastočne vysporiadané;áno;nie;áno;áno;áno;iná;;;;;21;100.0;100.0;0.0;33.3;100.0;124;5.9;
+Vikartovce;obec;intravilán;mimo obce;300;potok;čiastočne vysporiadané;áno;nie;áno;áno;áno;iná;áno;čiastočne;áno;áno;75;53.3;40.0;0.0;0.0;100.0;456;7.3;25.9
+Vydrník;obec;;;;;;;;;;;;nie;áno;áno;áno;55;83.6;18.2;0.0;1.8;89.1;545;9.8;58.6
+Vydrník;obec;intravilán;mimo obce;*;družstvo;čiastočne vysporiadané;nie;nie;áno;áno;áno;iná;;;;;45;80.0;0.0;0.0;0.0;86.7;425;9.3;
+Vydrník;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;nie;nie;áno;áno;áno;;;;;;10;100.0;100.0;0.0;10.0;100.0;120;12.0;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES PREŠOV;;;;;;;;;;;;;;;;;;;;;;;;;
+Abranovce;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;nie;áno;asfaltová;áno;nie;áno;áno;11;63.6;0.0;0.0;0.0;100.0;129;11.7;24.2
+Bzenov;obec;intravilán;mimo obce;100;potok;nevysporiadané;nie;nie;áno;nie;áno;žiadna;nie;nie;áno;nie;9;22.2;0.0;0.0;0.0;100.0;88;8.1;12.1
+Červenica;obec;;;;;;;;;;;;nie;nie;áno;nie;50;50.0;0.0;0.0;0.0;100.0;456;9.1;64.6
+Červenica;obec;intravilán;mimo obce;100;;nevysporiadané;nie;nie;áno;nie;áno;iná;;;;;12;0.0;0.0;0.0;0.0;100.0;84;7.0;
+Červenica;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;nie;áno;;;;;;38;65.8;0.0;0.0;0.0;100.0;372;9.8;
+Drienov;obec;intravilán;na okraji;;;čiastočne vysporiadané;nie;nie;áno;áno;áno;asfaltová;nie;nie;áno;áno;40;42.5;0.0;0.0;65.0;100.0;250;5.5;12.2
+Drienovská Nová Ves;obec;;;;;;;;;;;;áno;nie;áno;áno;10;80.0;0.0;0.0;0.0;100.0;104;10.4;15.8
+Drienovská Nová Ves;obec;extravilán;mimo obce;1000;;nevysporiadané;nie;nie;áno;nie;áno;iná;;;;;3;33.3;0.0;0.0;0.0;100.0;31;10.3;
+Drienovská Nová Ves;obec;extravilán;mimo obce;1500;;nevysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;7;100.0;0.0;0.0;0.0;100.0;73;10.4;
+Dulova Ves;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;nie;áno;asfaltová;nie;áno;áno;áno;1;100.0;0.0;0.0;0.0;100.0;32;38.0;5.5
+Fričovce;obec;intravilán;na okraji;;;nevysporiadané;áno;nie;áno;nie;áno;iná;áno;nie;áno;áno;22;54.5;50.0;0.0;0.0;100.0;147;7.1;13.8
+Haniska;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;áno;čiastočne;áno;áno;2;100.0;100.0;100.0;100.0;100.0;27;13.5;4.8
+Hermanovce;obec;intravilán;na okraji;;potok;vysporiadané;nie;nie;áno;nie;áno;iná;áno;nie;áno;áno;53;7.5;0.0;0.0;0.0;100.0;363;7.2;24.7
+Chmeľov;obec;;;;;;;;;;;;áno;áno;áno;áno;26;100.0;*;3.8;*;*;160;6.2;17.5
+Chmeľov;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;iná;;;;;20;100.0;15.0;0.0;15.0;*;121;6.1;
+Chmeľov;obec;intravilán;integrované/koncentrované;;;vysporiadané;áno;áno;áno;áno;áno;iná;;;;;2;100.0;50.0;50.0;50.0;50.0;16;8.0;
+Chmeľov;obec;intravilán;na okraji;2000;;vysporiadané;áno;nie;áno;áno;áno;asfaltová;;;;;4;100.0;*;0.0;*;*;23;6.0;
+Chmiňany;obec;intravilán;na okraji;;;čiastočne vysporiadané;nie;čiastočne;áno;áno;áno;iná;nie;áno;áno;áno;27;88.9;0.0;29.6;37.0;59.3;358;14.4;25.1
+Chminianské Jakubovany;obec;extravilán;mimo obce;3000;;nevysporiadané;nie;nie;áno;nie;áno;iná;áno;nie;áno;nie;160;5.6;0.0;0.0;0.0;100.0;1092;8.1;94.7
+Janov;obec;extravilán;mimo obce;1000;;nevysporiadané;nie;nie;áno;nie;nie;iná;áno;nie;áno;áno;2;100.0;0.0;0.0;0.0;100.0;18;9.0;6.5
+Kapušany;obec;extravilán;na okraji;;;vysporiadané;nie;nie;áno;nie;áno;iná;áno;čiastočne;áno;áno;3;66.7;0.0;0.0;0.0;66.7;48;16.0;2.3
+Kendice;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;62;38.7;41.9;0.0;1.6;82.3;426;7.3;26.3
+Kendice;obec;intravilán;integrované/rozptýlené;;;nevysporiadané;áno;nie;áno;nie;áno;;;;;;2;100.0;100.0;0.0;0.0;100.0;9;4.5;
+Kendice;obec;extravilán;mimo obce;1500;;nevysporiadané;nie;nie;áno;nie;áno;iná;;;;;33;0.0;0.0;0.0;0.0;75.8;224;7.5;
+Kendice;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;čiastočne;áno;žiadna;;;;;4;50.0;100.0;0.0;25.0;100.0;66;16.5;
+Kendice;obec;intravilán;integrované/koncentrované;;;nevysporiadané;áno;nie;áno;nie;áno;iná;;;;;23;87.0;87.0;0.0;0.0;87.0;127;5.5;
+Kojatice;obec;intravilán;mimo obce;250;;vysporiadané;nie;nie;áno;nie;áno;žiadna;nie;nie;áno;áno;12;16.7;0.0;0.0;0.0;100.0;95;8.7;9.9
+Lemešany;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;asfaltová;áno;čiastočne;áno;áno;32;100.0;100.0;0.0;0.0;100.0;253;7.9;14.4
+Lesíček;obec;intravilán;na okraji;;;nevysporiadané;áno;nie;áno;nie;áno;asfaltová;áno;nie;áno;nie;10;100.0;100.0;0.0;0.0;100.0;120;12.0;45.1
+Malý Slivník;obec;intravilán;mimo obce;500;;čiastočne vysporiadané;áno;nie;áno;áno;áno;iná;áno;nie;áno;áno;53;100.0;47.2;0.0;7.5;100.0;466;9.1;72.8
+Medzany;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;áno;áno;;nie;nie;áno;áno;5;100.0;0.0;0.0;80.0;100.0;30;6.0;5.3
+Mirkovce;obec;;;;;;;;;;;;áno;nie;áno;áno;63;54.0;14.3;0.0;14.3;100.0;549;8.7;59.1
+Mirkovce;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;9;100.0;100.0;0.0;100.0;100.0;103;11.4;
+Mirkovce;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;nie;áno;iná;;;;;34;73.5;0.0;0.0;0.0;*;342;13.1;
+Mirkovce;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;20;0.0;0.0;0.0;0.0;*;104;5.2;
+Ovčie;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;nie;áno;asfaltová;áno;nie;áno;nie;1;100.0;100.0;0.0;0.0;100.0;15;13.0;2.2
+Petrovany;obec;;;;;;;;;;;;áno;nie;áno;áno;40;100.0;42.5;0.0;40.0;57.5;292;6.8;17.2
+Petrovany;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;áno;áno;;;;;;17;100.0;100.0;0.0;94.1;0.0;118;6.5;
+Petrovany;obec;intravilán;na okraji;;;čiastočne vysporiadané;nie;nie;áno;áno;áno;asfaltová;;;;;23;100.0;0.0;0.0;0.0;100.0;174;7.0;
+Prešov;mesto;;;;;;;;;;;;áno;áno;áno;áno;*;*;*;*;*;*;3258;*;3.5
+Prešov;mesto;intravilán;na okraji;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;176;100.0;100.0;100.0;100.0;100.0;1181;9.4;
+Prešov;mesto;intravilán;integrované/koncentrované;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;*;*;*;*;*;*;974;*;
+Prešov;mesto;intravilán;na okraji;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;*;*;*;*;*;*;136;*;
+Prešov;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;*;*;*;*;*;*;500;*;
+Rokycany;obec;;;;;;;;;;;;nie;nie;áno;nie;27;0.0;0.0;0.0;0.0;100.0;380;14.1;51.8
+Rokycany;obec;intravilán;na okraji;;;čiastočne vysporiadané;nie;nie;áno;nie;áno;iná;;;;;10;0.0;0.0;0.0;0.0;100.0;119;11.9;
+Rokycany;obec;intravilán;na okraji;;;čiastočne vysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;17;0.0;0.0;0.0;0.0;100.0;261;15.4;
+Ruská Nová Ves;obec;;;;;;;;;;;;áno;nie;áno;áno;22;100.0;100.0;0.0;31.8;100.0;210;9.0;22.9
+Ruská Nová Ves;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;6;100.0;100.0;0.0;100.0;100.0;71;11.8;
+Ruská Nová Ves;obec;intravilán;na okraji;;;čiastočne vysporiadané;nie;nie;áno;áno;áno;asfaltová;;;;;16;100.0;100.0;0.0;6.3;100.0;139;8.0;
+Seniakovce;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;nie;nie;asfaltová;áno;nie;áno;nie;3;100.0;0.0;0.0;0.0;100.0;13;4.3;11.8
+Svinia;obec;intravilán;mimo obce;100;potok;čiastočne vysporiadané;nie;nie;áno;nie;áno;asfaltová;áno;nie;áno;áno;108;29.6;0.0;0.0;0.0;68.5;684;6.4;51.7
+Šarišská Poruba;obec;intravilán;mimo obce;200;;čiastočne vysporiadané;nie;nie;áno;nie;áno;iná;áno;nie;áno;áno;21;9.5;0.0;0.0;0.0;100.0;158;*;39.9
+Šarišská Trstená;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;asfaltová;áno;nie;áno;áno;8;75.0;37.5;0.0;37.5;100.0;76;9.5;28.9
+Šindliar;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;áno;nie;áno;áno;13;46.2;76.9;0.0;0.0;100.0;117;9.0;21.4
+Terňa;obec;;;;;;;;;;;;áno;áno;áno;áno;46;73.9;28.3;17.4;13.0;100.0;250;5.4;24.1
+Terňa;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;6;100.0;50.0;50.0;50.0;100.0;25;4.2;
+Terňa;obec;intravilán;integrované/koncentrované;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;iná;;;;;40;70.0;25.0;12.5;7.5;100.0;225;5.6;
+Tuhrina;obec;intravilán;na okraji;;;nevysporiadané;áno;nie;áno;nie;áno;iná;áno;nie;áno;nie;19;100.0;5.3;0.0;0.0;100.0;200;10.4;49.4
+Varhaňovce;obec;;;;;;;;;;;;áno;nie;áno;áno;53;100.0;43.4;0.0;49.1;100.0;729;13.3;73.6
+Varhaňovce;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;čiastočne;áno;iná;;;;;26;100.0;*;0.0;*;*;*;*;
+Varhaňovce;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;čiastočne;áno;asfaltová;;;;;27;100.0;*;0.0;*;100.0;*;*;
+Veľký Šariš;mesto;;;;;;;;;;;;áno;áno;áno;áno;64;40.6;40.6;9.4;9.4;100.0;424;*;10.6
+Veľký Šariš;mesto;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;;;;;58;34.5;34.5;0.0;0.0;100.0;220;*;
+Veľký Šariš;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;6;100.0;100.0;100.0;100.0;100.0;204;34.0;
+Víťaz;obec;extravilán;mimo obce;1500;;nevysporiadané;nie;nie;áno;nie;áno;iná;áno;nie;áno;áno;26;0.0;0.0;0.0;0.0;100.0;88;3.4;4.7
+Žehňa;obec;intravilán;mimo obce;100;;vysporiadané;áno;nie;áno;nie;áno;iná;áno;nie;áno;áno;33;87.9;90.9;0.0;0.0;100.0;420;12.9;52.8
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES SABINOV;;;;;;;;;;;;;;;;;;;;;;;;;
+Jarovnice;obec;intravilán;na okraji;;;čiastočne vysporiadané;nie;nie;áno;čiastočne;áno;žiadna;nie;nie;áno;áno;363;28.4;0.0;0.0;1.4;28.4;3300;9.1;81.5
+Krivany;obec;intravilán;integrované/koncentrované;;;*;nie;nie;áno;nie;áno;iná;áno;nie;áno;áno;16;43.8;0.0;0.0;0.0;43.8;131;*;12.0
+Lipany ;mesto;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;iná;áno;áno;áno;áno;57;56.1;0.0;0.0;0.0;56.1;150;*;2.4
+Milpoš;obec;extravilán;mimo obce;1500;potok;nevysporiadané;nie;nie;nie;nie;nie;žiadna;áno;áno;áno;áno;12;0.0;0.0;0.0;0.0;0.0;67;8.3;10.3
+Nižný Slavkov;obec;intravilán;mimo obce;*;*;vysporiadané;nie;nie;áno;nie;áno;iná;áno;nie;áno;nie;21;0.0;0.0;0.0;0.0;100.0;130;6.2;16.9
+Olejníkov;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;nie;áno;iná;nie;nie;áno;nie;26;0.0;0.0;0.0;0.0;19.2;160;6.2;43.5
+Ostrovany;obec;intravilán;mimo obce;*;*;čiastočne vysporiadané;nie;nie;áno;áno;áno;žiadna;nie;čiastočne;áno;áno;129;27.9;0.0;0.0;0.0;100.0;910;7.1;60.7
+Pečovská Nová Ves;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;61;72.1;0.0;1.6;0.0;100.0;460;7.9;20.9
+Pečovská Nová Ves;obec;extravilán;mimo obce;500;;nevysporiadané;nie;nie;áno;nie;áno;iná;;;;;45;71.1;0.0;0.0;0.0;100.0;388;9.1;
+Pečovská Nová Ves;obec;intravilán;integrované/koncentrované;;;vysporiadané;nie;nie;áno;nie;áno;*;;;;;3;66.7;0.0;0.0;0.0;100.0;17;5.7;
+Pečovská Nová Ves;obec;intravilán;na okraji;;;vysporiadané;nie;čiastočne;áno;nie;áno;iná;;;;;11;72.7;0.0;9.1;0.0;100.0;44;4.0;
+Pečovská Nová Ves;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;nie;áno;;;;;;2;100.0;0.0;0.0;0.0;100.0;11;5.5;
+Ražňany;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;áno;áno;asfaltová;nie;nie;áno;áno;15;100.0;0.0;0.0;26.7;100.0;202;13.5;14.1
+Renčišov;obec;intravilán;na okraji;50;;vysporiadané;nie;nie;áno;nie;áno;asfaltová;nie;nie;áno;nie;1;100.0;0.0;0.0;0.0;100.0;20;20.0;11.6
+Rožkovany;obec;;;;;;;;;;;;áno;áno;áno;áno;17;5.9;0.0;0.0;0.0;94.1;106;6.2;8.5
+Rožkovany;obec;intravilán;na okraji;;;nevysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;11;0.0;0.0;0.0;0.0;100.0;71;6.5;
+Rožkovany;obec;extravilán;mimo obce;1500;železnica;nevysporiadané;nie;nie;áno;nie;nie;žiadna;;;;;6;16.7;0.0;0.0;0.0;83.3;35;5.8;
+Sabinov;mesto;;;;;;;;;;;;áno;áno;áno;áno;133;83.5;*;*;*;*;1374;11.3;11.2
+Sabinov;mesto;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;áno;áno;nie;áno;;;;;;65;100.0;*;*;*;*;674;10.4;
+Sabinov;mesto;intravilán;integrované/koncentrované;;;čiastočne vysporiadané;áno;áno;áno;nie;áno;asfaltová;;;;;68;67.6;*;*;*;*;826;12.1;
+Šarišské Michaľany;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;25;100.0;0.0;52.0;52.0;100.0;205;8.2;7.7
+Šarišské Michaľany;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;nie;áno;asfaltová;;;;;12;100.0;0.0;0.0;0.0;100.0;75;6.3;
+Šarišské Michaľany;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;13;100.0;0.0;100.0;100.0;100.0;130;10.0;
+Tichý Potok;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;nie;áno;iná;áno;nie;áno;nie;5;40.0;80.0;0.0;0.0;100.0;33;6.2;8.4
+Torysa;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;žiadna;áno;áno;áno;áno;39;2.6;0.0;0.0;0.0;17.9;146;*;10.6
+Uzovské Pekľany;obec;intravilán;na okraji;;;nevysporiadané;nie;nie;áno;nie;áno;iná;nie;nie;áno;áno;13;0.0;0.0;0.0;0.0;46.2;96;9.2;25.1
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES SNINA;;;;;;;;;;;;;;;;;;;;;;;;;
+Belá nad Cirochou;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;áno;nie;áno;áno;6;100.0;50.0;0.0;66.7;100.0;68;10.5;2.1
+Dlhé nad Cirochou;obec;intravilán;mimo obce;300;potok;nevysporiadané;áno;nie;áno;nie;áno;asfaltová;áno;nie;áno;áno;9;100.0;100.0;0.0;0.0;100.0;44;4.9;2.1
+Kalná Roztoka;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;nie;nie;áno;nie;áno;;nie;nie;áno;nie;7;100.0;0.0;0.0;0.0;100.0;52;7.4;8.3
+Klenová;obec;;;;;;;;;;;;nie;nie;áno;nie;15;100.0;0.0;0.0;0.0;100.0;103;8.2;19.3
+Klenová;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;6;100.0;0.0;0.0;0.0;100.0;53;12.2;
+Klenová;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;nie;áno;;;;;;9;100.0;0.0;0.0;0.0;100.0;50;5.6;
+Ladomirov;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;;áno;nie;áno;nie;2;100.0;*;0.0;0.0;100.0;16;6.5;4.3
+Snina;mesto;;;;;;;;;;;;áno;áno;áno;áno;155;100.0;100.0;76.8;76.8;100.0;1025;6.6;4.8
+Snina;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;35;100.0;100.0;100.0;100.0;100.0;318;9.1;
+Snina;mesto;intravilán;integrované/koncentrované;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;84;100.0;100.0;100.0;100.0;100.0;439;5.2;
+Snina;mesto;intravilán;integrované/koncentrované;;;vysporiadané;áno;nie;áno;áno;áno;asfaltová;;;;;36;100.0;100.0;0.0;0.0;100.0;268;7.4;
+Stakčín;obec;;;;;;;;;;;;áno;áno;áno;áno;80;100.0;50.0;87.5;0.0;100.0;440;5.5;18.4
+Stakčín;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;22;100.0;*;*;0.0;*;145;6.6;
+Stakčín;obec;intravilán;na okraji;;;vysporiadané;áno;áno;áno;nie;áno;asfaltová;;;;;58;100.0;*;*;0.0;*;295;5.1;
+Šmigovec;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;áno;nie;áno;nie;3;100.0;66.7;0.0;0.0;100.0;14;4.3;12.8
+Ubľa;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;;áno;čiastočne;áno;nie;21;100.0;100.0;0.0;0.0;100.0;134;6.4;15.2
+Ulič;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;nie;áno;;áno;čiastočne;áno;nie;23;100.0;100.0;100.0;0.0;100.0;175;7.6;16.2
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES STARÁ ĽUBOVŇA;;;;;;;;;;;;;;;;;;;;;;;;;
+Čirč;obec;intravilán;na okraji;;;nevysporiadané;nie;nie;áno;nie;áno;asfaltová;áno;nie;áno;áno;40;35.0;0.0;0.0;0.0;100.0;179;4.5;16.0
+Hniezdne;obec;;;;;;;;;;;;áno;nie;áno;áno;16;18.8;18.8;0.0;18.8;100.0;115;7.2;8.2
+Hniezdne;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;čiastočne;áno;asfaltová;;;;;14;7.1;7.1;0.0;7.1;100.0;103;7.4;
+Hniezdne;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;2;100.0;100.0;0.0;100.0;100.0;12;6.0;
+Jakubany;obec;;;;;;;;;;;;áno;čiastočne;áno;áno;75;58.7;61.3;0.0;22.7;100.0;730;9.7;30.2
+Jakubany;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;čiastočne;áno;asfaltová;;;;;73;57.5;61.6;0.0;21.9;100.0;720;9.9;
+Jakubany;obec;intravilán;mimo obce;*;potok;vysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;1;100.0;0.0;0.0;0.0;100.0;8;8.0;
+Jakubany;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;1;100.0;100.0;0.0;100.0;100.0;2;2.0;
+Jarabina;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;;áno;nie;áno;áno;21;57.1;85.7;0.0;28.6;95.2;149;7.1;17.9
+Kamienka;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;asfaltová;áno;áno;áno;áno;10;50.0;60.0;90.0;30.0;100.0;97;9.5;6.9
+Kolačkov;obec;intravilán;na okraji;;potok;nevysporiadané;áno;nie;áno;nie;áno;žiadna;áno;nie;áno;áno;40;0.0;0.0;0.0;0.0;100.0;229;5.7;22.3
+Kyjov;obec;intravilán;na okraji;;;nevysporiadané;nie;nie;áno;áno;áno;iná;áno;nie;áno;áno;20;5.0;0.0;0.0;0.0;100.0;196;9.8;25.5
+Lomnička;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;;áno;nie;áno;nie;122;53.3;77.9;0.0;0.0;99.2;1654;13.6;*
+Ľubotín;obec;;;;;;;;;;;;áno;nie;áno;áno;24;29.2;0.0;0.0;0.0;100.0;165;6.9;12.5
+Ľubotín;obec;intravilán;na okraji;;;čiastočne vysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;23;26.1;0.0;0.0;0.0;100.0;143;6.2;
+Ľubotín;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;nie;áno;;;;;;1;100.0;0.0;0.0;0.0;100.0;22;22.0;
+Mníšek nad Popradom;obec;extravilán;mimo obce;250;;nevysporiadané;nie;nie;áno;nie;áno;žiadna;áno;nie;áno;nie;3;0.0;0.0;0.0;0.0;100.0;15;4.3;2.1
+Nová Ľubovňa;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;;áno;nie;áno;áno;7;71.4;85.7;0.0;57.1;100.0;61;8.7;2.3
+Podolínec;mesto;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;;áno;áno;áno;áno;65;100.0;83.1;72.3;0.0;100.0;420;6.5;13.2
+Stará Ľubovňa;mesto;;;;;;;;;;;;áno;čiastočne;áno;áno;186;94.1;94.1;94.1;94.1;94.1;1522;*;9.4
+Stará Ľubovňa;mesto;intravilán;na okraji;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;56;83.9;83.9;83.9;83.9;83.9;702;*;
+Stará Ľubovňa;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;áno;áno;;;;;;130;98.5;98.5;98.5;98.5;98.5;820;6.3;
+Šarišské Jastrabie;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;áno;nie;áno;áno;39;2.6;15.4;0.0;0.0;100.0;332;8.5;30.0
+Vyšné Ružbachy;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;čiastočne;áno;asfaltová;áno;áno;áno;áno;6;100.0;16.7;0.0;16.7;100.0;66;13.0;5.2
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES STROPKOV;;;;;;;;;;;;;;;;;;;;;;;;;
+Breznica;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;asfaltová;áno;nie;áno;čiastočne;14;0.0;21.4;0.0;0.0;100.0;68;4.9;9.6
+Bukovce;obec;intravilán;mimo obce;500;;nevysporiadané;áno;nie;áno;nie;áno;asfaltová;áno;nie;áno;áno;11;18.2;100.0;0.0;0.0;100.0;118;11.0;20.0
+Bžany;obec;;;;;;;;;;;;áno;nie;áno;nie;6;50.0;0.0;0.0;0.0;100.0;42;*;24.0
+Bžany;obec;intravilán;mimo obce;500;;nevysporiadané;nie;nie;áno;nie;nie;asfaltová;;;;;2;0.0;0.0;0.0;0.0;100.0;30;*;
+Bžany;obec;intravilán;integrované/koncentrované;;;nevysporiadané;áno;nie;áno;nie;áno;*;;;;;4;75.0;0.0;0.0;0.0;100.0;13;*;
+Gribov;obec;intravilán;na okraji;;;čiastočne vysporiadané;nie;nie;áno;nie;áno;asfaltová;nie;nie;áno;nie;3;100.0;0.0;0.0;0.0;100.0;20;6.7;10.9
+Kolbovce;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;asfaltová;áno;nie;áno;áno;4;100.0;75.0;0.0;0.0;100.0;59;13.3;32.6
+Krušinec;obec;intravilán;mimo obce;500;;nevysporiadané;nie;nie;áno;nie;nie;iná;nie;nie;áno;nie;4;0.0;0.0;0.0;0.0;100.0;15;3.8;6.2
+Makovce;obec;extravilán;mimo obce;300;;nevysporiadané;nie;nie;áno;nie;nie;asfaltová;áno;nie;áno;čiastočne;2;0.0;0.0;0.0;0.0;100.0;0;9.5;0.0
+Miková;obec;intravilán;na okraji;;;nevysporiadané;áno;nie;áno;áno;áno;asfaltová;áno;nie;áno;áno;6;83.3;83.3;0.0;83.3;100.0;58;9.7;33.5
+Nižná Oľšava;obec;extravilán;mimo obce;1500;;čiastočne vysporiadané;áno;nie;áno;nie;nie;asfaltová;áno;nie;áno;čiastočne;5;80.0;100.0;0.0;0.0;100.0;42;*;10.6
+Staškovce;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;nie;áno;iná;nie;nie;áno;čiastočne;2;100.0;0.0;0.0;0.0;100.0;21;10.5;7.5
+Stropkov;mesto;;;;;;;;;;;;áno;čiastočne;áno;áno;*;*;*;*;*;*;931;*;8.6
+Stropkov;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;*;*;*;*;*;*;510;*;
+Stropkov;mesto;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;;;;;93;4.3;2.2;0.0;0.0;91.4;421;*;
+Veľkrop;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;nie;áno;iná;nie;nie;áno;čiastočne;9;100.0;0.0;0.0;0.0;100.0;81;9.0;36.8
+Vyšná Olšava;obec;intravilán;mimo obce;800;;vysporiadané;áno;nie;áno;áno;áno;asfaltová;áno;nie;áno;áno;11;100.0;100.0;0.0;0.0;100.0;102;9.3;17.1
+Vyšný Hrabovec;obec;intravilán;integrované/rozptýlené;;;nevysporiadané;áno;nie;áno;nie;áno;;áno;nie;áno;nie;4;100.0;25.0;0.0;0.0;100.0;28;6.5;13.3
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES SVIDNÍK;;;;;;;;;;;;;;;;;;;;;;;;;
+Bodružal;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;nie;áno;iná;áno;nie;áno;nie;2;100.0;50.0;0.0;0.0;100.0;22;11.0;37.3
+Cernina;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;asfaltová;áno;nie;áno;áno;6;100.0;100.0;0.0;33.3;100.0;51;8.5;8.7
+Dubová;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;áno;nie;áno;nie;2;100.0;100.0;0.0;0.0;100.0;22;11.0;9.1
+Giraltovce;mesto;;;;;;;;;;;;áno;áno;áno;áno;77;97.4;*;*;*;*;745;*;17.8
+Giraltovce;mesto;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;iná;;;;;52;96.2;88.5;*;15.4;92.3;393;*;
+Giraltovce;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;25;100.0;*;*;*;*;347;13.9;
+Hunkovce;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;čiastočne;áno;nie;áno;;áno;čiastočne;áno;nie;14;100.0;100.0;71.4;0.0;100.0;107;7.6;30.8
+Kečkovce;obec;;;;;;;;;;;;áno;áno;áno;nie;9;100.0;55.6;0.0;0.0;100.0;111;11.9;48.3
+Kečkovce;obec;intravilán;na okraji;;;čiastočne vysporiadané;nie;nie;nie;nie;áno;žiadna;;;;;5;100.0;20.0;0.0;0.0;100.0;65;12.2;
+Kečkovce;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;nie;nie;nie;;;;;;4;100.0;100.0;0.0;0.0;100.0;46;11.5;
+Krajná Bystrá;obec;;;;;;;;;;;;áno;nie;áno;áno;21;38.1;57.1;0.0;0.0;100.0;164;7.8;49.0
+Krajná Bystrá;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;nie;áno;asfaltová;;;;;8;100.0;100.0;0.0;0.0;100.0;85;10.6;
+Krajná Bystrá;obec;intravilán;mimo obce;*;potok;vysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;13;0.0;30.8;0.0;0.0;100.0;79;6.1;
+Krajná Poľana;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;nie;áno;;áno;čiastočne;áno;nie;2;100.0;0.0;0.0;0.0;100.0;33;16.5;13.5
+Kružlová;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;iná;áno;nie;áno;áno;29;100.0;100.0;0.0;0.0;100.0;320;10.6;57.3
+Kuková;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;áno;nie;áno;áno;2;100.0;50.0;0.0;0.0;100.0;36;18.0;5.3
+Kurimka;obec;intravilán;mimo obce;100;;nevysporiadané;áno;nie;áno;nie;áno;iná;áno;nie;áno;áno;4;100.0;100.0;0.0;0.0;100.0;33;8.5;8.1
+Ladomirová;obec;intravilán;na okraji;;;nevysporiadané;áno;nie;áno;nie;áno;iná;áno;nie;áno;áno;17;100.0;100.0;0.0;0.0;100.0;338;19.9;40.7
+Lúčka;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;nie;nie;áno;áno;áno;;nie;nie;áno;áno;10;70.0;60.0;0.0;60.0;100.0;69;5.8;27.3
+Nižný Komárnik;obec;intravilán;mimo obce;50;;vysporiadané;nie;nie;áno;nie;áno;iná;áno;nie;áno;áno;13;0.0;23.1;0.0;0.0;100.0;64;4.9;38.8
+Nižný Mirošov;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;áno;nie;áno;áno;4;100.0;50.0;0.0;50.0;100.0;24;6.0;9.6
+Rovné;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;nie;áno;iná;áno;nie;áno;áno;5;40.0;40.0;0.0;0.0;100.0;50;9.6;9.8
+Roztoky;obec;;;;;;;;;;;;áno;nie;áno;nie;32;59.4;43.8;0.0;0.0;100.0;170;5.3;57.8
+Roztoky;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;nie;iná;;;;;26;50.0;30.8;0.0;0.0;100.0;138;5.3;
+Roztoky;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;;;;;6;100.0;100.0;0.0;0.0;100.0;32;5.3;
+Stročín;obec;intravilán;na okraji;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;áno;čiastočne;áno;áno;11;100.0;100.0;100.0;81.8;100.0;153;12.4;32.1
+Svidník;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;áno;čiastočne;áno;áno;115;100.0;100.0;100.0;100.0;100.0;827;8.3;6.7
+Vyšný Mirošov;obec;intravilán;mimo obce;150;;čiastočne vysporiadané;áno;nie;áno;áno;áno;iná;áno;nie;áno;áno;18;100.0;88.9;0.0;0.0;100.0;195;10.8;31.8
+Vyšný Orlík;obec;;;;;;;;;;;;áno;nie;áno;áno;13;100.0;100.0;0.0;0.0;100.0;84;5.7;21.8
+Vyšný Orlík;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;nie;áno;asfaltová;;;;;12;100.0;100.0;0.0;0.0;100.0;70;5.0;
+Vyšný Orlík;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;1;100.0;100.0;0.0;0.0;100.0;14;14.0;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+OKRES VRANOV NAD TOPĽOU;;;;;;;;;;;;;;;;;;;;;;;;;
+Banské;obec;intravilán/extravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;asfaltová;áno;nie;áno;áno;58;25.9;19.0;0.0;0.0;98.3;410;8.4;28.1
+Benkovce;obec;intravilán;na okraji;;;vysporiadané;nie;čiastočne;áno;nie;áno;iná;nie;čiastočne;áno;čiastočne;9;100.0;0.0;0.0;0.0;100.0;58;6.4;10.7
+Bystré;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;áno;áno;áno;áno;55;100.0;100.0;100.0;85.5;100.0;411;7.5;15.5
+Čaklov;obec;intravilán;na okraji;;;vysporiadané;áno;čiastočne;áno;áno;áno;asfaltová;áno;nie;áno;áno;55;100.0;18.2;36.4;32.7;100.0;968;17.6;44.7
+Čičava;obec;;;;;;;;;;;;áno;nie;áno;čiastočne;57;66.7;50.9;0.0;40.4;100.0;467;8.2;51.9
+Čičava;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;iná;;;;;39;51.3;*;*;*;*;*;*;
+Čičava;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;asfaltová;;;;;18;100.0;*;*;*;*;*;*;
+Dlhé Klčovo;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;áno;nie;áno;áno;16;100.0;100.0;0.0;100.0;100.0;103;6.0;7.3
+Ďurďoš;obec;;;;;;;;;;;;áno;nie;áno;čiastočne;24;91.7;58.3;0.0;4.2;100.0;137;6.0;59.8
+Ďurďoš;obec;extravilán;mimo obce;800;;čiastočne vysporiadané;áno;nie;áno;nie;áno;asfaltová;;;;;8;100.0;75.0;0.0;0.0;100.0;28;4.4;
+Ďurďoš;obec;intravilán;integrované/rozptýlené;;;čiastočne vysporiadané;áno;nie;áno;čiastočne;áno;;;;;;16;87.5;50.0;0.0;6.3;100.0;109;6.8;
+Hanušovce nad Topľou;mesto;;;;;;;;;;;;áno;áno;áno;áno;*;*;*;*;*;*;655;*;18.3
+Hanušovce nad Topľou;mesto;intravilán;na okraji;;;čiastočne vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;47;89.4;100.0;100.0;12.8;100.0;358;*;
+Hanušovce nad Topľou;mesto;intravilán;integrované/koncentrované;;;vysporiadané;áno;áno;áno;áno;áno;asfaltová;;;;;20;100.0;100.0;100.0;30.0;100.0;90;*;
+Hanušovce nad Topľou;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;*;*;*;*;*;*;207;*;
+Hencovce;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;áno;nie;áno;áno;27;85.2;85.2;0.0;85.2;85.2;127;6.1;10.4
+Hlinné;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;iná;áno;nie;áno;áno;73;76.7;19.2;0.0;8.2;100.0;724;9.9;46.8
+Jastrabie nad Topľou;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;asfaltová;áno;nie;áno;čiastočne;14;100.0;42.9;0.0;35.7;100.0;101;8.0;25.9
+Kamenná Poruba;obec;intravilán;*;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;asfaltová;áno;nie;áno;áno;46;47.8;17.4;0.0;0.0;32.6;551;12.0;52.3
+Kučín;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;asfaltová;áno;nie;áno;áno;40;100.0;100.0;0.0;40.0;100.0;216;5.4;45.1
+Malá Domaša;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;žiadna;áno;nie;áno;áno;22;45.5;*;0.0;13.6;86.4;116;*;25.8
+Nižný Hrabovec;obec;;;;;;;;;;;;áno;nie;áno;áno;52;100.0;100.0;0.0;*;100.0;360;*;22.1
+Nižný Hrabovec;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;30;100.0;100.0;0.0;*;100.0;208;*;
+Nižný Hrabovec;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;áno;áno;asfaltová;;;;;22;100.0;100.0;0.0;*;100.0;152;6.9;
+Nižný Hrušov;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;áno;áno;áno;áno;4;100.0;100.0;*;100.0;100.0;28;8.3;1.6
+Ondavské Matiašovce;obec;;;;;;;;;;;;áno;nie;áno;áno;30;100.0;30.0;0.0;23.3;100.0;233;7.8;29.0
+Ondavské Matiašovce;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;áno;áno;asfaltová;;;;;28;100.0;28.6;0.0;25.0;100.0;*;*;
+Ondavské Matiašovce;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;nie;áno;;;;;;2;100.0;50.0;0.0;0.0;100.0;*;*;
+Pavlovce;obec;intravilán;na okraji;;;nevysporiadané;áno;nie;áno;áno;áno;iná;áno;nie;áno;áno;9;88.9;100.0;0.0;11.1;100.0;56;6.7;7.8
+Poša;obec;intravilán;mimo obce;150;;čiastočne vysporiadané;áno;nie;áno;áno;áno;iná;áno;nie;áno;áno;19;0.0;52.6;0.0;15.8;52.6;212;11.2;25.9
+Prosačov;obec;intravilán;mimo obce;500;;čiastočne vysporiadané;nie;nie;áno;nie;áno;iná;áno;nie;áno;čiastočne;14;0.0;0.0;0.0;0.0;100.0;112;7.4;63.6
+Rafajovce;obec;intravilán;na okraji;;;nevysporiadané;áno;nie;áno;nie;áno;asfaltová;áno;nie;áno;nie;5;0.0;20.0;0.0;0.0;100.0;35;*;19.2
+Rudlov;obec;;;;;;;;;;;;nie;nie;áno;áno;14;85.7;0.0;0.0;57.1;100.0;129;9.4;19.9
+Rudlov;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;áno;áno;;;;;;5;100.0;0.0;0.0;100.0;100.0;*;*;
+Rudlov;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;áno;áno;asfaltová;;;;;9;77.8;0.0;0.0;33.3;100.0;*;*;
+Ruská Voľa;obec;intravilán;mimo obce;200;;vysporiadané;nie;nie;áno;nie;áno;*;áno;nie;áno;nie;*;*;0.0;0.0;0.0;*;36;*;38.7
+Sačurov;obec;;;;;;;;;;;;nie;áno;áno;áno;39;61.5;0.0;30.8;0.0;100.0;531;*;27.1
+Sačurov;obec;intravilán;mimo obce;35;;čiastočne vysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;27;44.4;0.0;0.0;0.0;100.0;429;*;
+Sačurov;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;12;100.0;0.0;100.0;0.0;100.0;102;8.5;
+Sečovská Polianka;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;áno;nie;áno;áno;48;100.0;100.0;0.0;89.6;100.0;330;6.9;12.5
+Sedliská;obec;intravilán;na okraji;;;čiastočne vysporiadané;áno;nie;áno;nie;áno;iná;áno;nie;áno;áno;18;0.0;0.0;0.0;0.0;100.0;115;6.4;9.0
+Skrabské;obec;;;;;;;;;;;;nie;nie;áno;áno;19;73.7;0.0;0.0;47.4;100.0;232;12.2;33.9
+Skrabské;obec;intravilán;na okraji;;;vysporiadané;nie;nie;áno;áno;áno;iná;;;;;15;66.7;0.0;0.0;33.3;100.0;*;*;
+Skrabské;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;áno;áno;;;;;;4;100.0;0.0;0.0;100.0;100.0;*;*;
+Soľ;obec;;;;;;;;;;;;nie;nie;áno;áno;81;97.5;0.0;0.0;69.1;98.8;929;11.5;42.2
+Soľ;obec;intravilán;na okraji;;;čiastočne vysporiadané;nie;nie;áno;áno;áno;asfaltová;;;;;74;97.3;0.0;0.0;67.6;100.0;883;11.9;
+Soľ;obec;intravilán;integrované/rozptýlené;;;vysporiadané;nie;nie;áno;áno;áno;;;;;;7;100.0;0.0;0.0;85.7;85.7;46;6.6;
+Vechec;obec;;;;;;;;;;;;áno;nie;áno;áno;116;29.3;41.4;0.0;0.0;94.8;913;7.9;43.0
+Vechec;obec;intravilán;mimo obce;1000;;nevysporiadané;áno;nie;áno;nie;áno;iná;;;;;63;15.9;12.7;0.0;0.0;100.0;597;9.5;
+Vechec;obec;intravilán;na okraji;;;vysporiadané;áno;nie;áno;nie;áno;asfaltová;;;;;53;45.3;75.5;0.0;0.0;88.7;316;6.0;
+Vranov nad Topľou;mesto;;;;;;;;;;;;áno;áno;áno;áno;*;*;*;*;*;*;1972;*;8.6
+Vranov nad Topľou;mesto;intravilán;na okraji;;;vysporiadané;áno;áno;áno;áno;áno;iná;;;;;85;94.1;70.6;*;40.0;100.0;530;*;
+Vranov nad Topľou;mesto;intravilán;integrované/rozptýlené;;;vysporiadané;áno;áno;áno;áno;áno;;;;;;*;*;*;*;*;*;1442;*;
+Vyšný Žipov;obec;;;;;;;;;;;;áno;nie;áno;áno;18;94.4;5.6;0.0;11.1;100.0;141;8.4;11.6
+Vyšný Žipov;obec;intravilán;integrované/rozptýlené;;;vysporiadané;áno;nie;áno;áno;áno;;;;;;3;100.0;33.3;0.0;66.7;100.0;*;*;
+Vyšný Žipov;obec;intravilán;integrované/koncentrované;;;nevysporiadané;nie;nie;áno;nie;áno;asfaltová;;;;;15;93.3;0.0;0.0;0.0;100.0;*;*;
+Zámutov;obec;intravilán;na okraji;;;vysporiadané;áno;nie;čiastočne;áno;áno;asfaltová;áno;nie;áno;áno;155;100.0;32.3;0.0;100.0;100.0;1219;7.8;45.3
+Žalobín;obec;intravilán;mimo obce;100;;čiastočne vysporiadané;áno;nie;áno;áno;áno;iná;áno;nie;áno;čiastočne;34;100.0;100.0;0.0;5.9;100.0;228;6.7;31.2
